@@ -1,6 +1,6 @@
 # Acerca del proyecto
 
-Scrapping usando la librería de playwright para Node JS. Este proyecto compara los precios de un producto en 3 tiendas diferentes, compara los mismos y entrega la respuesta conglomerada de los resultados y de la tienda cuyo precio sea el más económico.
+Web Scraper usando la librería de playwright para Node JS. Este proyecto compara los precios de un producto en 3 tiendas diferentes, compara los mismos y entrega la respuesta conglomerada de los resultados y de la tienda cuyo precio sea el más económico.
 
 ## Instalacion:
 
